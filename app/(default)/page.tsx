@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Calendly Automator+',
+  description: 'Calendly Automator+ App',
 }
 
 import Hero from '@/components/hero'
